@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: dendesoft/kwidoo-travel
   branch: main
+  client_id: Ov23li5zTwBk6cHHlQY2
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
