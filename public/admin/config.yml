@@ -3,6 +3,7 @@ backend:
   repo: dendesoft/kwidoo-travel
   branch: main
   client_id: Ov23li5zTwBk6cHHlQY2
+  base_url: https://kwidoo-travel.pages.dev
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
